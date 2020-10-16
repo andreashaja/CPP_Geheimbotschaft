@@ -1,4 +1,4 @@
-# Projekt für Einsteiger in C++ : Verschlüsseln von Text mit while-Schleife und if-Verzweigung
+# Projekt für Einsteiger in C++ : Verschlüsseln von Text mit while-Schleife und if-else-Verzweigung
 
 [The Fearless Engineer : `C++`](https://www.thefearlessengineer.com/cpp-kurs)
 
